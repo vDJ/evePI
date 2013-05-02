@@ -1,0 +1,32 @@
+	Accélerer le chargement du loginscreen
+
+>> Page Loginscreen
+	Inscription : mettre une confirmation après l'inscription, là on a l'impression de cliquer et qu'il ne se passe rien (ou connecter automatiquement après le signup)
+
+
+>>Page Home
+	Changer le label "Create a new planet" pour un truc plus clair, par exemple "Assign your available planets to projects"
+	Revoir le workflow, je pense. Là on va dans projects, on regarde le détail d'un projet, on revient en arrière pour join un project, et ensuite on revient sur la home pour choisir de lui assigner des planètes ? 
+	Il faudrait pouvoir join un projet depuis sa page, puis pouvoir lui assigner des planètes directement.
+	Préparer une home en rapport avec l'activité des projets dont on fait partie pour quand on aura des trucs tacticools genre l'envoi de mails et tout ? =D
+
+
+>>Page Projects
+	Création de projets : 
+			Pouvoir faire un projet avec plusieurs produits finaux, pouvoir dire de combien de personnes/planètes on a besoin pour le projet (potentiellement faire un formulaire un peu plus esthétique -> pas juste sur une ligne)
+			Mettre la ligne de création au-dessus de la liste des projets disponibles
+
+	Affichages des projets : 
+			Voir le nombre de planètes/personnes dont le projet a encore besoin (genre 3/18 par exemple)
+			Espacer un peu la liste
+
+>>Page Your projects
+	Il faudrait que le bonton "Projects" avec le menu déroulant dans la top bar soit combiné avec celui "Your projects". En gros supprimer le bouton Projects et faire en sorte que quand on clique sur "Your Projects" ça ouvre le menu déroulant avec les projets + un lien vers la page actuelle.
+	Peut-être renommer "My projects" plutôt que Your...jsais pas trop.
+
+>> Page de projet
+	Fixer l'affichage des gros projets
+	Rien à dire pour l'instant
+
+>> Page d'admin de projet
+	Pouvoir éditer le projet Renommage, ajout de produits, etc.
